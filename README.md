@@ -33,7 +33,8 @@ Modelde **YOLOv11** kullanılmıştır.  **Roboflow** üzerinden sağlanan özel
 
 
 ## Test Görselleri
-![Prediction](runs/detect/train/val_batch0_pred.jpg)
+![river_trout](https://github.com/user-attachments/assets/9f629f7b-a70f-4b65-8c09-3513ade8537b)
+![perch](https://github.com/user-attachments/assets/ce26ffaa-880e-4e9b-9ad7-7ca3fbdf28e8)
 
 ---
 
